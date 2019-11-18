@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://andculture.com/"
   location = "Harrisburg Pa"
   date_start = "2018-11-21"
-  date_end = "2019-11-13"
+# date_end = "2019-11-13"
   description = """"""
   
  [[experience]]
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   company_url = "https://www.dataforma.com/"
   location = "York Pa"
   date_start = "2015-01-01"
-# date_end = "2017-09-01"
+  date_end = "2017-09-01"
   description = """Deliver improvements to Dataforma's products to make our customer's lives easier"""
   
 [[experience]]
