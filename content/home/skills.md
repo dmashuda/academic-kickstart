@@ -31,5 +31,11 @@ subtitle = ""
   icon_pack = "fas"
   name = "Git"
   description = "90%"
+  
+[[feature]]
+  icon = "java"
+  icon_pack = "fas"
+  name = "Java"
+  description = "90%"
 
 +++
