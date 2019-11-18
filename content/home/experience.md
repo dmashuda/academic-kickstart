@@ -31,14 +31,41 @@ date_format = "Jan 2006"
   * Modelling
   * Deploying
   """
+  
+ [[experience]]
+  title = "Software Engineer"
+  company = "Andculture"
+  company_url = ""
+  location = "Harrisburg Pa"
+  date_start = "2018-11-21"
+  date_end = "2019-11-13"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+  
+ [[experience]]
+  title = "Software Team Lead"
+  company = "Dataforma"
+  company_url = ""
+  location = "York Pa"
+  date_start = "2017-09-01"
+  date_end = "2018-11-21"
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Software Engineer"
+  company = "Dataforma"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  location = "York Pa"
+  date_start = "2015-01-01"
+  date_end = "2017-09-01"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+  
+[[experience]]
+  title = "Software Engineering Intern"
+  company = "Dataforma"
+  company_url = ""
+  location = "York Pa"
+  date_start = "2014-05-15"
+  date_end = "2014-12-15"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
