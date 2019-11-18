@@ -17,55 +17,41 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
   
  [[experience]]
   title = "Software Engineer"
   company = "Andculture"
-  company_url = ""
+  company_url = "https://andculture.com/"
   location = "Harrisburg Pa"
   date_start = "2018-11-21"
   date_end = "2019-11-13"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """"""
   
  [[experience]]
   title = "Software Team Lead"
   company = "Dataforma"
-  company_url = ""
+  company_url = "https://www.dataforma.com/"
   location = "York Pa"
   date_start = "2017-09-01"
   date_end = "2018-11-21"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Manage the development team(6-10 software engineers) for the company's flagship software product"""
 
 [[experience]]
   title = "Software Engineer"
   company = "Dataforma"
-  company_url = ""
+  company_url = "https://www.dataforma.com/"
   location = "York Pa"
   date_start = "2015-01-01"
-  date_end = "2017-09-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+# date_end = "2017-09-01"
+  description = """Deliver improvements to Dataforma's products to make our customer's lives easier"""
   
 [[experience]]
   title = "Software Engineering Intern"
   company = "Dataforma"
-  company_url = ""
+  company_url = "https://www.dataforma.com/"
   location = "York Pa"
   date_start = "2014-05-15"
   date_end = "2014-12-15"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Maintained existing features and added new features to Dataforma Android Application."""
 
 +++
