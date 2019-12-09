@@ -15,7 +15,7 @@ role: Software Engineer
 # Organizations/Affiliations
 organizations:
 - name: Returnlogic
-  url: "returnlogic.com"
+  url: "https://returnlogic.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include software architecture and testing patterns.
