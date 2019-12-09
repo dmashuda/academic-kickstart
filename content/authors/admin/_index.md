@@ -59,4 +59,4 @@ user_groups:
 - Visitors
 ---
 
-I am Software Engineer who is passionate about high quality, well designed, and efficiently implemented software. I am always excited learn anything that has to do with computer science, and love to solve challenging problems.
+I am a Software Engineer who is passionate about high quality, well designed, and efficiently implemented software. I am always excited to learn anything that has to do with computer science, and I love to solve challenging problems.
