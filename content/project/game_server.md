@@ -1,7 +1,7 @@
 ---
 title: "Game Server"
 date: "2016-01-01"
-description: "A real time multiplayer game server"
+summary: "A real time multiplayer game server"
 tags:
   - "go"
   - "concurrency"
@@ -28,7 +28,7 @@ The game server runs its udp receiver on 2 goroutines, one for sending GameState
 
 ### Project Information
 ###### Project Contributers:
- - [Daniel Mashuda](http://danmashuda.com/about)
+ - [Daniel Mashuda](http://danmashuda.com)
  - Austin Decker
  - Austin Forry
 

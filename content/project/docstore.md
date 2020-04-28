@@ -1,7 +1,7 @@
 ---
 title: "Docstore"
 date: "2016-06-16"
-description: "Document(file) Storage abstraction for golang"
+summary: "Document(file) Storage abstraction for golang"
 categories:
 tags:
   - "go"

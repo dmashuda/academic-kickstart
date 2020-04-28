@@ -1,7 +1,7 @@
 ---
 title: "Go-Imgur"
 date: "2016-02-01"
-description: "A basic imgur api client for go"
+summary: "A basic imgur api client for go"
 tags:
   - "go"
   - "imgur"
