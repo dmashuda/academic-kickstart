@@ -16,7 +16,7 @@ graph LR
 
 ### 1.) The Queue
 
-The queue is the application the recieves, holds, and distibutes messages
+The queue is the application the receives, holds, and distributes messages
 
 There are many options for message queues but here are some common ones:
  - [SQS](https://aws.amazon.com/sqs/)

@@ -18,7 +18,7 @@ organizations:
   url: "https://returnlogic.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include software architecture and testing patterns.
+bio: My interests include software architecture and team building. The views and opinions expressed in this article are those of the me and do not necessarily reflect the official policy or position of my employer past or present.
 
 interests:
 - Software Engineering
