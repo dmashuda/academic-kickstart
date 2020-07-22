@@ -54,7 +54,7 @@ Most interesting software(yes business software can be interesting) that we make
  - File Systems
  - Databases
 
-Each of these has a certian amount of flakiness(unreliability) and downtime as individuals. As we orchestrate multiple of these together the total unreliability of the combination of the services increases.
+Each of these has a certain amount of flakiness(unreliability) and downtime as individuals. As we orchestrate multiple of these together the total unreliability of the combination of the services increases.
 
 
 Let's take for example an HTTP endpoint in an imaginary web service for User signup for B2B product. What needs to be done?
@@ -69,7 +69,7 @@ function createCompany(data){
   // Could fail if our database is down, but if our database is down that is pretty catastrophic
   insertCompany(data); 
   
-  // Could fail if our email server is down, maybe the sysadmin wants to do some maintence in the middle of the day
+  // Could fail if our email server is down, maybe the sysadmin wants to do some maintenance in the middle of the day
   sendWelcomeEmail(data); 
   
   // External API's could fail
