@@ -17,7 +17,7 @@ It is important to be aware how we may unconsciously be applying biases and disc
 ![Meme Text](https://i.kym-cdn.com/entries/icons/original/000/010/692/19789999.jpg "The Princess Bride Meme")
 
 
-When laid out like this, you could see how someone who is asked "Is this candidate a good culture fit?" might unconsciously discriminating. A step to help eliminate this unconscious bias is to ***ask about culture fit in a more specific way***:
+When laid out like this, you could see how someone who is asked "Is this candidate a good culture fit?" might unconsciously be discriminating. A step to help eliminate this unconscious bias is to ***ask about culture fit in a more specific way***:
  - "Does this candidate fit in with our culture of continual learning"
  - "Does this candidate fit in with our culture of collaboration"
  - "Does this candidate fit in with our culture of simplicity"
