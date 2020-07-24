@@ -9,10 +9,6 @@ section_id = 0
 
 ## Components of a Message Queue:
 
-```mermaid
-graph LR
-    Start --> Message Queue --> Consumer
-```
 
 ### 1.) The Queue
 
